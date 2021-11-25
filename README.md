@@ -4,7 +4,7 @@
 * Rockeseat
 
 ## Curso
-* Ignite Trilha Nodejs
+* BootCamp Ignite Trilha Nodejs
 
 ## Desafio01
 * Criar API REST com operaçoes CRUD
